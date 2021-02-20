@@ -1,4 +1,4 @@
-# annoyzc.github.com [About me. (meow~)]
+# About me. (meow~)]
 Hi, I'm AnnoyzC, I learn about...
 * PHP
 * SQL
